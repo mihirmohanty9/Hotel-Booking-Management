@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+target/
+*.class
+
+# Logs
+*.log
